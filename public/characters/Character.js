@@ -7,8 +7,8 @@ class Character {
       this.damage = 10;
       this.speed = 5;
       this.attacks = {
-        basic: 10,
-        special: 30,
+        basic: 12,
+        special: 25,
         ult: 70,
       };
       this.knockbacks = {
@@ -21,8 +21,8 @@ class Character {
       this.damage = 15;
       this.speed = 4;
       this.attacks = {
-        basic: 12,
-        special: 40,
+        basic: 4,
+        special: 45,
         ult: 80,
       };
       this.knockbacks = {
